@@ -5,5 +5,8 @@
     "email":"Sean_Zheng.0202@outlook.com",
     "token":"eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJuaW5naGFvLm5ldCIsImV4cCI6IjE0Mzg5NTU0NDUiLCJuYW1lIjoid2FuZ2hhbyIsImFkbWluIjp0cnVlfQ.SwyHTEx_RQppr97g4J5lKXtabJecpejuef8AqKYMAJc",
     "type":"Bearer"
+  },
+  "test":{
+    message:"This is a test message!"
   }
 }
