@@ -7,6 +7,6 @@
     "type":"Bearer"
   },
   "test":{
-    message:"This is a test message!"
+    "message":"This is a test message!"
   }
 }
