@@ -3,3 +3,5 @@
 
 ##### 登录信息返回
 > [login请求](https://my-json-server.typicode.com/Sean-Zheng/json/login)
+
+> [test请求](https://my-json-server.typicode.com/Sean-Zheng/json/test)
